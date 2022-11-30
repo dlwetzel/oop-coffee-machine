@@ -1,2 +1,2 @@
 # oop-coffee-machine
-# Practice Python OOP Project simulating a coffe machine
+# Practice Python OOP Project simulating a coffee machine
